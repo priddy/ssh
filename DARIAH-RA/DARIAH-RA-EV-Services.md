@@ -15,8 +15,8 @@ The DARIAH Service Provision comprises the following community:
 The following roles have been identified in the DARIAH Service Provision community:
 
 <a id="evs-sps"></a>
-* **Service Provision Subsystem (passive role):** the community component representing the generic service provision community.
-
+ 
+*  **Service Provision Subsystem (passive role):** the community component representing the generic service provision community.
 * **Service Owner (active role):** has the overall responsibility for the Service Management Subsystem. The Service Owner sets the key objectives and provides overall direction for the Service Management Subsystem through governance protocol, procedure and service agreements made.
 
 * **Service Provider (active role):** an agent, usually an institution, which makes a service available for use by the Service Consumer in accordance with a service agreement.

@@ -1,5 +1,5 @@
 ##Data Hosting Service
-DEFINITION:  
+###Definition:  
 A service provider manages, oversees, and has responsibility for infrastructure, software and administrative tasks and makes this system available as a hosted service to users, usually, but not necessarily, over the Internet. A hosted service provider may consist of one organisation, or a collaboration between more organisations and/or sub-contracted specialist service providers. The hosted service may be provided on a dedicated or shared-service model. 
 
 Hosting services are most often used for hosting Websites, but can also be used for hosting research data objects such as: audio-video qualitative data, quantitative data, software (and software configuration), digital documents, or information about research object and similar content. In the context of DARIAH IKC all research data object types are considered as research data, and hence services that concentrate on a specific object type as a specialisation of a hosting service. 
@@ -7,7 +7,7 @@ Hosting services are most often used for hosting Websites, but can also be used 
 A hosting service generally comprises of a repository, a depositing (acquisition) service, a discovery service, and (optionally) a provision service that gives access to the deposited data resources - even if the provision service per se is more connected with the contribution type “Access to resources”. 
 
 ###Enterprise Viewpoint
-COMMUNITIES  
+####Communities  
 The Hosting Service IKC comprises the following communities: 
 
 **Data Hosting Community:** The Data Hosting Community is that who acquires, administers and curate those data created or collected by the **Resource Creation Community**. Within DARIAH, the Data Hosting Community is represented by an institution, which has the technical capacity of hosting research data on its servers, for a defined period of time. 
@@ -15,8 +15,8 @@ The Hosting Service IKC comprises the following communities:
 ####Data Hosting Roles
 -	**Data Hosting Subsystem (passive role):** the community component representing the data hosting community as a whole. 
 -	**Data Owner (active role):** a person or organisation that owns, or is responsible for, the data and determines the conditions for deposit/access with the Data Manager. 
--	**Data Manager (active role):** a role which is responsible for ensuring the quality of the research data during its ingest and management. 
--	**Preservation Manager (active role):** a role that is responsible for generating data products, and entering/registering them in the data administration service. 
+-	**Data Manager (active role):** an agent which is responsible for ensuring the quality of the research data during its ingest and management. 
+-	**Preservation Manager (active role):** an agent that is responsible for generating data products, and entering/registering them in the data administration service. 
 -	**Data Administration System (passive role):** A system that is responsible for registering the data products for management purposes. 
 
 ####Data Hosting Behaviour 
@@ -44,7 +44,7 @@ Differently from the Enterprise viewpoint (where the community was central), for
 <table>
 <tr><th>Case Study - EASY Data Archive</th></tr>
 <tr><td>
-Easy is the data archive for the social science and humanities in the Netherlands. This data archive has been developed and is currently maintained and enriched by [DANS](https://dans.knaw.nl/en "DANS home page in English"), an institute of the [Dutch Royal Academy of Science](https://www.knaw.nl/en "KNAW home page in English"), that has a leading role (nationally and internationally) in the development of data quality policies and research data management plans.  As such, EASY offers to the research community the possibility to host their data after they have finished their research and therefore can be considered as a candidate for a DARIAH contribution **Data Hosting Service**. 
+[Easy](https://easy.dans.knaw.nl "EASY archiving system homepage") is the data archive for the social science and humanities in the Netherlands. This data archive has been developed and is currently maintained and enriched by [DANS](https://dans.knaw.nl/en "DANS home page in English"), an institute of the [Dutch Royal Academy of Science](https://www.knaw.nl/en "KNAW home page in English"), that has a leading role (nationally and internationally) in the development of data quality policies and research data management plans.  As such, EASY offers to the research community the possibility to host their data after they have finished their research and therefore can be considered as a candidate for a DARIAH contribution **Data Hosting Service**. 
 
 In terms of Enterprise Viewpoint, the **Data Hosting Community** is represented by the DANS team, which is the community who acquires, administers and curates the dataset created by the **Resource Creation Community** (the researcher depositing the datasets). The team at DANS acquires the data (with the support of a submission agreement) through the submission of information packages. 
 

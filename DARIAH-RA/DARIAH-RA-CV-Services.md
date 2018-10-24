@@ -1,7 +1,7 @@
 #Services
 ##DARIAH Service Provision
 ###Computational Viewpoint
-A research Infrastructure (RI) such as DARIAH provides services which facilitate scholars to create, interact, process and store, or deposit, data. Other services maybe provided by the DARIAH community. Here we consider a general form of a service. 
+A [research Infrastructure (RI)](./DARIAH-RA-Glossary.md#g-ri "glossary description of a research infrastructure") such as [DARIAH](./DARIAH-RA-Glossary.md#g-dariah "glossary description of DARIAH and link") provides services which facilitate scholars to create, interact, process and store, or deposit, data. Other services maybe provided by the DARIAH community. Here we consider a general form of a service. 
 
 The computational viewpoint (CV) describes the functionality of a system. It decomposes the system into objects encapsulating specific functionality that are implemented by a service or activity. Specific interfaces bind the computational objects together, thus allowing the functionality to be distributed. 
 

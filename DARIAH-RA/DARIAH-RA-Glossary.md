@@ -1,15 +1,22 @@
 #DARIAH Integrated Service References Architecture
 #Glossary
+
+<a id="g-aai"></a>
+**AAI - Authentication and Authorisation Infrastructures:** a trusted environment where users can be identified electronically using a single sign-on identity. The necessity for user identity to cross borders between nations, organisations, domains and services, leads to the formation of federated identity environments.
+
 **Activity:** In general terms, an activity can be described as one or a set of actions, performed by an agent (single or institution) in order to achieve a result or product that can be shared with another agent. Differently from a service, an activity is discrete, as it is marked by a beginning and an end. 
+
+<a id="g-amc"></a>
+**Aggregator & Metadata catalogue** An aggregator is a service by which it harvest and collects metadata about data objects into a centralised catalogue database which is indexed and classified for searching, browsing and filtering. A metadata catalogue may be the result of aggregation but could also be the provider of metadata for an aggregating service.
 
 <a id="g-aip"></a>
 **Archival Information Package:** The definition of the term Archival Storage in OAIS includes the services and functions necessary for the storage of the Archival Information Package (AIP). Archival storage encompasses data management and includes processes such as storage media selection, transfer of AIP to storage system, data security and validity, backup and data restoration, and reproduction of AIP to new media [IASA](https://www.iasa-web.org/tc04/archival-information-package-aip "International Association of Sound and Audiovisual Archives"). It is described fully in the [Recommendation for Space Data System Practices RM-OAIS](https://public.ccsds.org/pubs/650x0m2.pdf "The Consultative Committtee for Space Data Systems, Magenta Book") 
 
-Cultural Heritage Object: analogue and original physical object or its digital representation of an artefacts from a cultural heritage institution 
+<a id="g-cho"></a>
+**Cultural Heritage Object:** analogue and original physical object or its digital representation of an artefacts from a cultural heritage institution 
 
-Cultural Heritage Institution: Institution that preserves the cultural heritage objects and that makes available digitally cultural object and/ or metadata of specific collections to researchers.
-
-
+<a id="g-chi"></a>
+**Cultural Heritage Institution:** Institution that preserves the cultural heritage objects and that makes available (digitally) cultural object and/ or metadata of specific collections to researchers. <https://pro.europeana.eu/what-we-do/cultural-heritage-institutions>
 
 <a id="g-dariah"></a>
 **DARIAH-EU - Digital Research Infrastructure for Arts and Humanities:** DARIAH is a European research infrastructure (ERIC).  It connects several hundreds of scholars and dozens of research facilities in currently 17 european countries, the DARIAH member countries. People in DARIAH provide digital tools and share data as well as know-how. They organize learning opportunities for digital research methods, like workshops and summer schools, and offer training materials for the Digital Humanities. <https://www.dariah.eu/>
@@ -25,8 +32,6 @@ Cultural Heritage Institution: Institution that preserves the cultural heritage 
 
 <a id="g-dwg"></a>
 **DARIAH Working Groups:** "Working groups are joint activities in DARIAH. They are self-organized and work in a strategic area that is defined by DARIAH's Virtual Competency Centres." <https://www.dariah.eu/activities/working-groups-list/> and <https://www.dariah.eu/about/organization-and-governance/>
-
-
 
 <a id="g-dasish"></a>
 **DASISH - Data Services Infrastructure for the Social Sciences and Humanities:** This project brought together all 5 ESFRI research infrastructure initiatives in the social sciences and humanities (CLARIN, DARIAH, CESSDA, ESS & SHARE), represented each by some centers. Its goal was to determine areas of possible synergies in the infrastructure development and to work on a few concrete joint activities. Funded by the EC as a Framework 7 project, Grant Agreement 283646. The project ran from 1st January 2012 and ending on 31st December 2014. <https://dasish.eu/>
@@ -62,11 +67,14 @@ Information object type: The information types are identified from an inventory 
 <a id-"g-ikc"></a>
 **In-kind Contribution (IKC):** Is the provision of goods or services to an organisation by one of its members, valued in monetary terms according to rules agreed upon beforehand by the members of the organisation, and accounted for as part of the member’s contribution to the budget. 
 
-Knowledge transfer: act of sharing and disseminating knowledge from one organisation to another, or from one field of expertise to another.
+**Knowledge transfer:** act of sharing and disseminating knowledge from one organisation to another, or from one field of expertise to another.
 
-Metadata: Metadata is additional data about an informational object and can be "descriptive" or "structural" in nature. A standard is normally employed to define the form of the metadata takes.
+**Metadata:** Metadata is additional data about an informational object and can be "descriptive" or "structural" in nature. A standard is normally employed to define the form of the metadata takes.
 
-OAI-PMH: The Open Archives Initiative Protocol for Metadata Harvesting (OAI-PMH) is a low-barrier mechanism for repository interoperability. It is a protocol developed for harvesting (or collecting) metadata descriptions of records in an archive so that services can be built using metadata from many archives. An implementation of OAI-PMH must support representing metadata in Dublin Core, but may also support additional representations.
+<a id="g-mooc"></a>
+**MOOC - Massive Open Online Course:** A MOOC is an online educational course aimed at large numbers of participation, open access, usually with no specific start or end date, and delivered via the web. 
+
+**OAI-PMH:** The Open Archives Initiative Protocol for Metadata Harvesting (OAI-PMH) is a low-barrier mechanism for repository interoperability. It is a protocol developed for harvesting (or collecting) metadata descriptions of records in an archive so that services can be built using metadata from many archives. An implementation of OAI-PMH must support representing metadata in Dublin Core, but may also support additional representations.
 
 <a id="g-oais"></a>
 **OAIS / Reference Model for an Open Archival Information Systems:** is a conceptual framework for an archival system used for long-term preservation and access to digital information. It is described in the [Recommendation for Space Data System Practices RM-OAIS](https://public.ccsds.org/pubs/650x0m2.pdf "The Consultative Committtee for Space Data Systems, Magenta Book")
@@ -88,10 +96,11 @@ Information technology - Open distributed processing - Reference model: Architec
 
 Resource Creation Community: equivalent to the Data Creation Community in the RM-SSH Enterprise Viewpoint
 
+<a id="g-ri"></a>
+**Research Infrastructure (RI):** distributed organisation which provides services (e.g. tools, hosting, processing, archiving, displaying data), access to research data and community support for researchers. 
 
-Research Infrastructure (RI): distributed organisation which provides services (e.g. tools, hosting, processing, archiving, displaying data), access to research data and community support for researchers. 
-
-Research Object: Research data part of a scientific investigation. It can be identified (DOI), described (metadata) and aggregated. 
+<a id="g-ro"></a>
+**Research Object:** Research data part of a scientific investigation. It can be identified (DOI), described (metadata) and aggregated. 
 
 <a id="g-rmssh:></a>
 **RM-SSH (Reference Model for Social Science and Humanities Data Infrastructures):** The reference model describes the concepts and relations of social sciences and/or humanities data infrastructures. <https://sites.google.com/a/dans.knaw.nl/reference-model-for-ssh-data-infrastructure/home>
@@ -114,3 +123,7 @@ Software: programming interfaces used in order to produce code.
 
 <a id="g-vpm"></a>
 **Viewpoint Modelling:** uses a framework which defines a coherent set of views to be used in the construction of an architecture of a complex system. A viewpoint is a representation of the whole system from the perspective of a related set of concerns. By interlinking the viewpoints, a complete description of the system emerges from a high-level viewpoint to a detailed specific viewpoint.
+
+<a id="g-vre"></a>
+**Virtual Research Environment:** "A VRE comprises a set of online tools and other network resources and technologies interoperating with each other to facilitate or enhance the processes of research practitioners within and across institutional boundaries. A key characteristic of a VRE is that it facilitates collaboration amongst researchers and research teams providing them with more effective means of collaboratively collecting, manipulating and managing data, as well as collaborative knowledge creation." <https://www.jisc.ac.uk/guides/implementing-a-virtual-research-environment-vre>.  
+For more information about VREs there is the [Virtual Research Environment Collaborative Landscape Study](http://bpfe.eclap.eu/eclap/axmedis/0/0d3/00000-0d3c4563-7af1-48b9-ac3b-6bc345154b3a/2/AXMEDIS37716.pdf) 2010, by Dr Annamaria Carusi and Dr Torsten Reimer.

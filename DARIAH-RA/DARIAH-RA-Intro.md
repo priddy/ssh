@@ -15,6 +15,7 @@ The main goals of such reference architecture are:
 
 4.	To mitigate and reduce risk. We consider this reference architecture as a way of reducing the risk mainly derived from point 1: that of interpreting the in-kind contributions in different ways, to describe them without a common reference model. This risk exists not only among partners inside the same research infrastructure, but also for anyone who accesses the DARIAH contributions from other infrastructures. 
 
+<a id="i-meth"></a>
 ##Methodology
 In the process of creating a Reference Architecture for the DARIAH in-kind contributions, we were able to count on the support of already existing [reference models](./DARIAH-RA-Glossary.md#g-rm "glossary description of a reference model and link") and reference architectures, both in the fields of ICT, humanities and social sciences.
 
@@ -58,6 +59,7 @@ The computational viewpoint describes the functionality of a system. It decompos
 *Note:*
 Neither the engineering nor the technical viewpoints will be considered in this reference architecture at this point in time. The engineering viewpoint focuses on the mechanisms and functions required to support distributed interactions between objects in the system and therefore, it may be valuable, in the future to consider the engineering viewpoint for some aspects of the architecture.
 
+<a id="i-rmssh"></a>
 ###DASISH SSH Social Sciences and Humanities Data Infrastructure Reference Model
 
 The DASISH project developed a Reference Model based on the previous observation that there was a lack of understanding of research infrastructures and the relationships between their entities: as Research Infrastructures are distributed infrastructures, they gather numerous stakeholders and have complex organisations. Their structure and functioning is therefore not always clear to an external user. 
@@ -68,7 +70,7 @@ In this context, RM-ODP appears to be the most pertinent model to describe them,
 
 The RM-SSH concentrated on what was considered as a common element between the five participating SSH infrastructures[^5], and in particular core to DARIAH, CESSDA and CLARIN, and achievable at a  reference model level of abstraction. The DARIAH RA, by its nature dealing with in-kind contributions, covers aspects of a research infrastructure not covered by the RM-SSH concentration on the data infrastructure concerns. Therefore, this RA will hopefully contribute to expanding the RM-SSH.
 
-
+<a id="i-further"></a>
 ###Further Development
 This reference architecture is the first attempt, and a work-in-progress, to create a reference architecture in the Social Sciences and Humanities research infrastructures. Furthermore, it was the first architecture based upon the RM-SSH reference model. It requires validation against existing and future architectures for services and activities in DARIAH, and elsewhere[^6].
 Moreover, it requires further development of the viewpoints, and in particular the computational viewpoint, for DARIAH contribution subtypes. This will aid the understanding of the computational viewpoint with concrete examples of how the described computational objects interact. 

@@ -20,4 +20,4 @@ Date | Version | Activity
 -----|---------|---------
 2017-10 | draft 1.0| deliverable completed
 2017-12 | 1.0 | [deliverable published](https://hal.archives-ouvertes.fr/hal-01628733 "Report published at the HAL archive, version 2")
-2018-10 | 1.1 | draft conversion to Website (as Markdown)
+2018-10 | 1.1 | draft conversion to Website (as Markdown) with minor alterations
